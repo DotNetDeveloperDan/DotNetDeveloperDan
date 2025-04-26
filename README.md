@@ -48,7 +48,7 @@ Distributed systems • Real-time data feeds • DevOps automation • Secure au
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DotNetDeveloperDan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-pollack&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DotNetDeveloperDan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
