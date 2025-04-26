@@ -46,7 +46,7 @@ Distributed systems • Real-time data feeds • DevOps automation • Secure au
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-pollack&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DotNetDeveloperDan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-pollack&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -57,7 +57,7 @@ Distributed systems • Real-time data feeds • DevOps automation • Secure au
 
 - Enhancing STAG Securities' Jobs micro-service to auto-generate broker reports in multiple formats (PDF, Excel, Parquet).
 - Experimenting with Dapr sidecars to simplify cross-service communication and state management.
-- Building reusable Clean-Architecture templates for .NET 9 micro-services.
+- Building reusable Clean-Architecture templates for .NET 8 micro-services.
 
 ---
 
